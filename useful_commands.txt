@@ -1,1 +1,3 @@
 Get-Package ##get installed packages
+findstr ## grep-like
+Uninstall-Package ## delete programm

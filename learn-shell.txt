@@ -1,0 +1,8 @@
+##удалённое выполнение команд в рамках сессии
+##начать сессию
+Enter-PSSession Server01
+##закончить сессию
+Exit-PSSession
+
+##удалённая команда
+Invoke-Command -ComputerName Server01 -ScriptBlock {Get-Culture}

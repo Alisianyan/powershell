@@ -1,0 +1,1 @@
+win+pause = system settings ##сведения о системе
