@@ -1,0 +1,10 @@
+search for packet
+find-package -name somename
+or
+get-packagesource -name somename
+
+get list of installed packages
+getpackage
+
+install package only for current user
+install-package packagename -scope currentuser
