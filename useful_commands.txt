@@ -3,3 +3,5 @@ findstr ## grep-like
 Uninstall-Package ## delete programm
 
 systeminfo ##info about architecture, net adapters, os, machinename, virtualization, hardware
+winver - get windows version
+
